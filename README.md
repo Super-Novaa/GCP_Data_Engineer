@@ -1,2 +1,3 @@
-# GCP_data_engineer
-GCP data engineering study guide
+# GCP_Data_Engineer
+
+GCP data engineering study guide and contents!
